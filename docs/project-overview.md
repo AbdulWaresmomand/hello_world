@@ -251,10 +251,7 @@ The project will be considered successful when:
 
 | Role | Name | Signature | Date |
 |---|---|---|---|
-| Product Owner | Abdul Wares Momand | _________ | _____ |
-| Scrum Master | Ali Reza Haidari| _________ | _____ |
-| Developer | Abdul Moqtader Sohail, Bibi Hadisa Aryan | _________ | _____ |
+| Product Owner | Abdul Wares Momand | _________ |8/10/2026|
+| Scrum Master | Ali Reza Haidari| _________ | 8/10/2026|
+| Developers | Abdul Moqtader Sohail, Bibi Hadisa Aryan | _________ | 8/10/2026 |
 
----
-
-**End of Project Overview Document**
