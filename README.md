@@ -1,2 +1,3 @@
-# hello_world
-this is a practicing repository.
+Hello Guys,
+This is your friend Abdul Wares from AUAF University currently residing in Afghanistan. Senior student of Computer science with concentration in Software Engineering.
+I live in country side of the kunar province where we enjoy mostly the nature around us, especially river and forests. My favorite places are Chapa Dara for sightseeing, which is prominent for the sightseeing. I like every aspect of it.I like its peacefulness. There is no any kind of noise such as vehicle, machinery, factories, horns, and etc.instead it has beautiful sounds of river, birds, and trees. Its a great place for thinking about the big ideas, considering its peaceful environment.
